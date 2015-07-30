@@ -1,0 +1,24 @@
+{
+  "name": "testpackage",
+  "version": "0.0.1",
+  "description": "a simple package I am creating and publishing to check whether I understand the steps to creating and publishing a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgcraig/testpackage.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "testpackage"
+  ],
+  "author": "Adam G. Craig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamgcraig/testpackage/issues"
+  },
+  "homepage": "https://github.com/adamgcraig/testpackage#readme"
+}
