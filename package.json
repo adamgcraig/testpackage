@@ -1,5 +1,5 @@
 {
-  "name": "testpackage",
+  "name": "agc-testpackage",
   "version": "0.0.1",
   "description": "a simple package I am creating and publishing to check whether I understand the steps to creating and publishing a package",
   "main": "index.js",
